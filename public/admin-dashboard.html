@@ -6,6 +6,32 @@
     <title>Admin Dashboard</title>
     <link rel="stylesheet" href="styles/style.css">
 </head>
+<style>
+    /* Modal styles */
+    #passwordModal {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.9);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .modal-content {
+        background: white;
+        padding: 20px;
+        border-radius: 5px;
+        text-align: center;
+    }
+
+    #error-message {
+        color: red;
+        display: none;
+    }
+</style>
 <body>
     <h1>Admin Dashboard</h1>
     <div id="passwordModal" class="modal">
@@ -65,7 +91,23 @@
     <div id="club-list">
         <!-- Club items will be loaded here -->
     </div>
-    
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const passwordModal = document.getElementById("passwordModal");
+            const passwordInput = document.getElementById("admin-password");
+            const submitPasswordBtn = document.getElementById("submit-password");
+            const errorMessage = document.getElementById("error-message");
+
+            submitPasswordBtn.addEventListener("click", () => {
+                if (passwordInput.value === "6885") {
+                    passwordModal.style.display = "none";
+                } else {
+                    errorMessage.style.display = "block";
+                }
+            });
+        });
+    </script>
+
     <script src="scripts/admin.js"></script>
 </body>
 </html>
