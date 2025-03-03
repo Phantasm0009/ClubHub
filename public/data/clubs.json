@@ -1,0 +1,716 @@
+[
+  {
+    "name": "Bio Olympiad",
+    "description": "Students exploring biological topics at a higher level. Students may elect to participate in the Bio Olympiad Test.",
+    "advisor": "Morgenthaler",
+    "location": "B119",
+    "membership_requirements": "None",
+    "meetingStatus": "Meeting",
+    "genre": "Science",
+    "period": "Block 1"
+  },
+  {
+    "name": "Book Club",
+    "description": "Activities TBD, but the intention is to share a love of reading and all read the same 2-3 books over the course of the year to discuss.",
+    "advisor": "Ms. Mills",
+    "location": "Media Center",
+    "membership_requirements": "None",
+    "meetingStatus": "Meeting",
+    "genre": "Literature",
+    "period": "Block 1"
+  },
+  {
+    "name": "Educators Rising",
+    "description": "Educators Rising is a community-based movement from PDK International, in which chapters at schools feed teacher preparation programs at institutes of higher education with the support of State Departments of Education and local funders and foundations. These entities come together to provide a clear pathway to increase teacher diversity and teacher quality.",
+    "advisor": "Seliga",
+    "location": "B111",
+    "membership_requirements": "None",
+    "meetingStatus": "Meeting",
+    "genre": "Education",
+    "period": "Block 1"
+  },
+  {
+    "name": "FCA (Fellowship of Christian Athletes)",
+    "description": "Fellowship of Christian Athletes (FCA) is a student-led club that aims to encourage students to grow in their Christian faith and influence the world through outreach projects. We meet in a relaxed atmosphere to read the Bible and hear how it can impact our lives.",
+    "advisor": "Gough & Ray",
+    "location": "Auditorium",
+    "membership_requirements": "None",
+    "meetingStatus": "Meeting",
+    "genre": "Religion",
+    "period": "Block 1"
+  },
+  {
+    "name": "HOSA (Future Health Professionals)",
+    "description": "Empowering students to become leaders in the international health community, through competition, education, and experience. This low-time commitment club promotes career opportunities in medicine, nursing, veterinary sciences, dentistry, etc. and students will compete in categories of their choice.",
+    "advisor": "Dr. Sharma",
+    "location": "B114",
+    "membership_requirements": "None",
+    "meetingStatus": "Meeting",
+    "genre": "Science",
+    "period": "Block 1"
+  },
+  {
+    "name": "Muslim Student Association (MSA)",
+    "description": "MSA’s goal is to learn more about the Islamic beliefs and learn about some major and minor misconceptions about Islam. Within this, the club would love to help with Oakdale High School events and ISF (Islamic Society Frederick). We also discuss events and how they affect people today.",
+    "advisor": "Matute",
+    "location": "A107",
+    "membership_requirements": "Consistent Attendance",
+    "meetingStatus": "Meeting",
+    "genre": "Religion",
+    "period": "Block 1"
+  },
+  {
+    "name": "Music Discussion Club",
+    "description": "Club to discuss music.",
+    "advisor": "Smarick",
+    "location": "B203",
+    "membership_requirements": "None",
+    "meetingStatus": "Meeting",
+    "genre": "Arts",
+    "period": "Block 1"
+  },
+  {
+    "name": "National Art Honor Society",
+    "description": "This is an application-based club. There are specific eligibility requirements to meet AND an application to submit. We provide community service and support through the visual arts.",
+    "advisor": "Dobbin",
+    "location": "B233",
+    "membership_requirements": "Have successfully passed level 1 and level 2 visual arts courses. Maintain an overall GPA of 3.5. Maintain a 3.5 GPA in arts courses. Demonstrate leadership and service. Complete the application process.",
+    "meetingStatus": "Meeting",
+    "genre": "Arts",
+    "period": "Block 1"
+  },
+  {
+    "name": "Oakdale FFA Chapter",
+    "description": "An organization whose mission is to create premiere leadership, personal growth, and career success for those students who have an interest in plants, animals, science, and services (Agriculture).",
+    "advisor": "Welty",
+    "location": "B200",
+    "membership_requirements": "Any student may be a member of our chapter at the chapter level. Students enrolled in Plant and Animal Science classes meet requirements for full membership at the chapter, state, and national level and are eligible to compete and attend FFA events above the chapter level.",
+    "meetingStatus": "Meeting",
+    "genre": "Agriculture",
+    "period": "Block 1"
+  },
+  {
+    "name": "Oakdale Cinematic Arts and Film Production Club (OCAC)",
+    "description": "The Film Club will focus on exploring cinematic arts and film production by studying the 10 key steps of the filmmaking process. After mastering these steps, members will apply their knowledge by collaborating to create short films and movies, with everyone contributing to the production.",
+    "advisor": "Ms. Brandenburg",
+    "location": "B146",
+    "membership_requirements": "Complete the form.",
+    "meetingStatus": "Meeting",
+    "genre": "Arts",
+    "period": "Block 1"
+  },
+  {
+    "name": "Polar Plunge",
+    "description": "Help to raise money for Special Olympics MD, which provides year-round sports and leadership programs for the athletes and Unified teammates. Special Olympics give our athletes opportunities to develop physical fitness, demonstrate courage, experience joy, and participate in sharing gifts, skills, and friendships with their families, other Special Olympic athletes, and the community.",
+    "advisor": "James & Remsberg",
+    "location": "Aux Gym",
+    "membership_requirements": "In order to partake in Polar Plunge you must be willing and able to raise at least $50 and partake in multiple volunteer events. Must be willing to work with Special Olympic Athletes and Oakdale High School's Learning for Life program.",
+    "meetingStatus": "Meeting",
+    "genre": "Community Service",
+    "period": "Block 1"
+  },
+  {
+    "name": "ProjectLIT",
+    "description": "ProjectLIT is a national, grassroots literacy movement—one step, one book, and one conversation at a time. We work to EMPOWER our students as readers, writers, and leaders. PROMOTE a love of reading in our schools and communities. NURTURE authentic reading identities by increasing access to high-quality books, building community, and fostering a sense of belonging. CHAMPION young people and books that reflect their lived realities, communities, and identities.",
+    "advisor": "Corridon",
+    "location": "A212",
+    "membership_requirements": "Interest in reading and/or social justice issues.",
+    "meetingStatus": "Meeting",
+    "genre": "Literature",
+    "period": "Block 1"
+  },
+  {
+    "name": "Science National Honors Society",
+    "description": "Science National Honors Society",
+    "advisor": "Strohecker",
+    "location": "B145",
+    "membership_requirements": "This club is for current members. Application process for new members will occur Fall 2024.",
+    "meetingStatus": "Meeting",
+    "genre": "Science",
+    "period": "Block 1"
+  },
+  {
+    "name": "Snow Sports Club",
+    "description": "TBD",
+    "advisor": "Hayre & Evans",
+    "location": "Cafeteria",
+    "membership_requirements": "TBD",
+    "meetingStatus": "Meeting",
+    "genre": "Sports",
+    "period": "Block 1"
+  },
+  {
+    "name": "Sophomore Class Club",
+    "description": "Creates Homecoming items for the sophomore class and creates activities and fundraising for the sophomore class throughout the year.",
+    "advisor": "Porter",
+    "location": "A225",
+    "membership_requirements": "Students must be a sophomore.",
+    "meetingStatus": "Meeting",
+    "genre": "Class Council",
+    "period": "Block 1"
+  },
+  {
+    "name": "AAPI (Asian American Pacific Islander) Club",
+    "description": "A club for anyone interested in sharing Asian culture.",
+    "advisor": "Chang",
+    "location": "B115",
+    "membership_requirements": "None",
+    "genre": "Cultural",
+    "meetingStatus": "Meeting",
+    "period": "Block 2"
+  },
+  {
+    "name": "American Sign Language Club",
+    "description": "ASL Club",
+    "advisor": "Fitzpatrick & Mulcahy",
+    "location": "Media Center",
+    "membership_requirements": "None",
+    "genre": "Language",
+    "meetingStatus": "Meeting",
+    "period": "Block 2"
+  },
+  {
+    "name": "Freshman Class Club",
+    "description": "Creates Homecoming posters for the Freshman class and creates activities and fundraising for the Freshman class throughout the year.",
+    "advisor": "Pellot-Rosario & Rinker",
+    "location": "Cafeteria",
+    "membership_requirements": "Freshman Only",
+    "genre": "Class Council",
+    "meetingStatus": "Meeting",
+    "period": "Block 2"
+  },
+  {
+    "name": "Foreign Service Association",
+    "description": "The High School Foreign Service Association is the largest organization for aspiring diplomats at the high school level. Backed by the American Foreign Service Association, we unite a community of 100+ chapters in 26 states and multiple countries. Our mission is to raise awareness about the U.S. Foreign Service and its impact on the world around us, emphasizing that there is no foreign policy without the Foreign Service. We connect our community of 2,000 high schoolers with experienced diplomats, creating a medium to learn from first-hand experience. It builds upon this knowledge by encouraging an exchange of ideas between chapter members.",
+    "advisor": "Heine",
+    "location": "A207",
+    "membership_requirements": "None",
+    "genre": "International Relations",
+    "meetingStatus": "Meeting",
+    "period": "Block 2"
+  },
+  {
+    "name": "Future Investors",
+    "description": "The Future Investors Club is an amazing opportunity to learn about finance, investments, and the stock market. Our club also provides students a platform to manage real-life investments using virtual money to help them learn skills that will benefit them in the future.",
+    "advisor": "Olmstead",
+    "location": "B211",
+    "membership_requirements": "None",
+    "genre": "Business",
+    "meetingStatus": "Meeting",
+    "period": "Block 2"
+  },
+  {
+    "name": "Hindu Students Association",
+    "description": "A club for students to meet and learn about Hindu culture and religion.",
+    "advisor": "Pandey",
+    "location": "A103",
+    "membership_requirements": "None",
+    "genre": "Religion",
+    "meetingStatus": "Meeting",
+    "period": "Block 2"
+  },
+  {
+    "name": "Latin Club",
+    "description": "For those interested in Latin and its culture.",
+    "advisor": "Harris",
+    "location": "B120",
+    "membership_requirements": "None",
+    "genre": "Language",
+    "meetingStatus": "Meeting",
+    "period": "Block 2"
+  },
+  {
+    "name": "Chess",
+    "description": "Learn how to play/improve your skills in chess.",
+    "advisor": "Hayre",
+    "location": "A104",
+    "membership_requirements": "None",
+    "meetingStatus": "Meeting",
+    "genre": "Games",
+    "period": "Block 3"
+  },
+  {
+    "name": "Computer Club",
+    "description": "The computer science club is to expand the knowledge of programming and computer science by designing and executing projects. We plan to serve our community in relation to computer science such as projects and activities related to computer science.",
+    "advisor": "Ranallo",
+    "location": "Auditorium",
+    "membership_requirements": "Must minimally have taken or taking a computer science program at OHS (includes EDA)",
+    "meetingStatus": "Meeting",
+    "genre": "Technology",
+    "period": "Block 3"
+  },
+  {
+    "name": "Creative Writing Club",
+    "description": "Creative writing club is for any students who are interested in any type of writing. As a club, we will create a monthly collection of short stories, poems, non-fiction pieces, and flash fiction, as well as providing resources for writing for the club members.",
+    "advisor": "Ms. Clagg",
+    "location": "A221",
+    "membership_requirements": "None",
+    "meetingStatus": "Meeting",
+    "genre": "Literature",
+    "period": "Block 3"
+  },
+  {
+    "name": "Environmental Club",
+    "description": "The purpose of the club is to create awareness of environmental issues, such as protection, conservation, preservation, and restoration, with an emphasis on educating and empowering students. We will be applying these issues to OHS in order to obtain Green School Recertification.",
+    "advisor": "Nave",
+    "location": "A118",
+    "membership_requirements": "When you sign up, I will meet with you to discuss your intentions. This is a hands-on club and you must participate as our main goal is to maintain our Maryland Green School status.",
+    "meetingStatus": "Meeting",
+    "genre": "Environmental",
+    "period": "Block 3"
+  },
+  {
+    "name": "FBLA (Future Business Leaders of America)",
+    "description": "The purpose of FBLA High School is to provide, as an integral part of the instructional program, additional opportunities for secondary students in business and/or business-related fields to develop vocational and career supportive competencies and to promote civic and personal responsibilities. Will participate in regional business competitions, stock market challenges, planning community service projects and engage guest speakers communicating real-world opportunities.",
+    "advisor": "Ranallo",
+    "location": "B149",
+    "membership_requirements": "Must have a weighted 2.5 GPA.",
+    "meetingStatus": "Meeting",
+    "genre": "Business",
+    "period": "Block 3"
+  },
+  {
+    "name": "Fishing Club",
+    "description": "Fishing club aims to unite people with a passion of fishing to learn and expand upon their skills. Fishing club aims to meet to discuss fishing techniques such as knots, fishing equipment, fishing spots and different species. In addition, we want to talk about the recreational and environmental aspects of fishing as well. We plan on having events such as river/lake clean ups, building signs to post regulations, and collaborating with DNR for fishing projects, like helping stock trout.",
+    "advisor": "Matute",
+    "location": "A101",
+    "membership_requirements": "Consistent Attendance",
+    "meetingStatus": "Meeting",
+    "genre": "Outdoor",
+    "period": "Block 3"
+  },
+  {
+    "name": "Mini-THON",
+    "description": "Our main goal is to raise funds for the Four Diamonds Foundation, a non-profit that supports kids with pediatric cancer and their families. While we raise funds throughout the year in various ways, our main event is a spring Mini-THON activity. Last year, our club raised over $1100 for kids with cancer!",
+    "advisor": "Brewer",
+    "location": "A226",
+    "membership_requirements": "None",
+    "meetingStatus": "Meeting",
+    "genre": "Charity",
+    "period": "Block 3"
+  },
+  {
+    "name": "National English Honor Society",
+    "description": "English Honor Society",
+    "advisor": "Clagg",
+    "location": "A221",
+    "membership_requirements": "See Advisor",
+    "meetingStatus": "Meeting",
+    "genre": "Literature",
+    "period": "Block 3"
+  },
+  {
+    "name": "Pickleball Club",
+    "description": "Students will learn the rules and skills necessary to play Pickleball.",
+    "advisor": "Schlee",
+    "location": "A149/Tennis Courts",
+    "membership_requirements": "Limited to Senior",
+    "meetingStatus": "Meeting",
+    "genre": "Sports",
+    "period": "Block 3"
+  },
+  {
+    "name": "SAVE (Students Against Violence Everywhere)",
+    "description": "SAVE is a student advocacy and action organization created after the tragedy at Sandy Hook Elementary School, where young students and teachers died during a school shooting. SAVE works to create a sense of belonging at Oakdale and help educate the school community about safety measures and ways to prevent school violence.",
+    "advisor": "Smith",
+    "location": "A204",
+    "membership_requirements": "None",
+    "meetingStatus": "Meeting",
+    "genre": "Community Service",
+    "period": "Block 3"
+  },
+  {
+    "name": "SGA (Student Government Association)",
+    "description": "The SGA is a student led organization that represents the student voice at Oakdale High School. It is also the organization that plans large school events like Homecoming and the end of the year carnival. If you want to help be the student voice at Oakdale, join the SGA.",
+    "advisor": "Miller & Mulcahy",
+    "location": "B200",
+    "membership_requirements": "None",
+    "meetingStatus": "Meeting",
+    "genre": "Leadership",
+    "period": "Block 3"
+  },
+  {
+    "name": "Speech and Debate",
+    "description": "Speech and Debate Club is a group of students who come together to practice public speaking and debate skills in order to improve communication, active listening, and the art of argument. All are welcome!",
+    "advisor": "Sherman",
+    "location": "A211",
+    "membership_requirements": "None",
+    "meetingStatus": "Meeting",
+    "genre": "Debate",
+    "period": "Block 3"
+  },
+  {
+    "name": "StartUp Frederick",
+    "description": "Student Entrepreneurial Competition",
+    "advisor": "Stieg",
+    "location": "B210",
+    "membership_requirements": "None",
+    "meetingStatus": "Meeting",
+    "genre": "Entrepreneurship",
+    "period": "Block 3"
+  },
+  {
+    "name": "Art Club",
+    "description": "The high school art club is a creative space where students explore various art forms, from painting and drawing to sculpture and digital media. Members collaborate on projects, participate in art competitions, and share their passion for visual arts in a supportive environment.",
+    "advisor": "George",
+    "location": "B231",
+    "membership_requirements": "Students must submit an interest form in order to be accepted into Art Club.",
+    "genre": "Arts",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "Bear Voices",
+    "description": "To allow students to provide input about school climate and culture. Organize activities to promote a positive school environment.",
+    "advisor": "Brown",
+    "location": "B206",
+    "membership_requirements": "Complete Application",
+    "genre": "Leadership",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "Black Student Union",
+    "description": "To spread awareness on black issues, expand knowledge on black history, converse with like-minded people, and effect change within our community.",
+    "advisor": "Beard/Jackson",
+    "location": "A200",
+    "membership_requirements": "None",
+    "genre": "Community",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "Black History Project",
+    "description": "TBD",
+    "advisor": "Ehrlich",
+    "location": "A202",
+    "membership_requirements": "See Advisor",
+    "genre": "Community",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "ECON Challenge",
+    "description": "TBD",
+    "advisor": "Ehrlich",
+    "location": "A202",
+    "membership_requirements": "See Advisor",
+    "genre": "Business",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "Feed Frederick",
+    "description": "Feed Frederick conducts multiple food drives throughout the year for donation to the Frederick Food Bank.",
+    "advisor": "Przybocki",
+    "location": "A210",
+    "membership_requirements": "Eligibility for meeting participation",
+    "genre": "Community",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "French Club",
+    "description": "This is a club for all students who enjoy French culture, the culture of Francophone and/or French-African countries, and having fun. It is wonderful, but not necessary to speak French. Three Tuesdays per month we will have an open house to play games and watch movies in Madame's Room B229. We will meet on Club Day every other month and plan one field trip per semester.",
+    "advisor": "Quill",
+    "location": "B229",
+    "membership_requirements": "An interest in French language and/or culture. (Includes Quebec, French speaking Africa, and other French speaking countries)",
+    "genre": "Language",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "Interact Club",
+    "description": "Interact is a Rotary-sponsored service club that gives young people an opportunity to participate in fun and meaningful service projects while developing leadership skills and meeting new friends. The basic principle of the Rotary Interact is to help others.",
+    "advisor": "Heine",
+    "location": "B200",
+    "membership_requirements": "None",
+    "genre": "Community Service",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "Local Vocals- Show Choir",
+    "description": "A show choir experience. Students will have opportunities to 'dip their toes' into Show Choir experiences such as singing and moving with choreography. We will have performance opportunities while also developing our singing & Show Choir repertoire.",
+    "advisor": "Grimm",
+    "location": "D149- Choir Room",
+    "membership_requirements": "Students MUST be a part of Mixed Chorus or Concert Choir in order to join Show Choir, or otherwise have approval from Mrs. Grimm to join. Reach out to Mrs. Grimm if you have any requests. There will be a strict attendance policy to allow for full group learning & unity in our performances.",
+    "genre": "Music",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "Magic: The Gathering Club",
+    "description": "A chance for Magic: the Gathering players to connect with each other.",
+    "advisor": "Harold",
+    "location": "B143",
+    "membership_requirements": "Must be a Magic: the Gathering player",
+    "genre": "Games",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "MHA (Mental Health Awareness)",
+    "description": "A Mental Health Awareness Club is a supportive and inclusive group dedicated to promoting mental well-being, reducing stigma, and providing a safe space for open discussions about mental health. The club aims to educate members and the broader community on mental health topics through workshops, guest speakers, and awareness campaigns. Members work together to create a compassionate environment, advocate for mental health resources, and encourage self-care practices. The club may also organize events like stress-relief activities, mindfulness sessions, and peer support meetings to foster a sense of connection and understanding among participants.",
+    "advisor": "Twigg",
+    "location": "A213",
+    "membership_requirements": "Able to attend meetings and at least one weekend fundraiser in the spring.",
+    "genre": "Health",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "Morgan’s Message",
+    "description": "Taking a Shot at Mental Health",
+    "advisor": "Ms. Twigg",
+    "location": "A213",
+    "membership_requirements": "Targeted towards student athletes; however, everyone is welcome.",
+    "genre": "Health",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "National Business Honor Society",
+    "description": "National Business Honor Society",
+    "advisor": "Stieg & Codd",
+    "location": "B210 or B207",
+    "membership_requirements": "Junior or Senior. Have taken or currently enrolled in a 3rd business course. 3.0 overall GPA, 3.5 business GPA. Application and dues required.",
+    "genre": "Business",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "OHS VEX Robotics",
+    "description": "OHS Robotics Club",
+    "advisor": "Walker & Harold",
+    "location": "A119",
+    "membership_requirements": "See Advisors",
+    "genre": "Technology",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "SAGA (Sexuality and Gender Alliance)",
+    "description": "This is a student-led organization at a school that aims to create a safe and welcoming environment for all students, regardless of gender identity or sexual orientation. GSAs provide support for students who are LGBTQ, questioning their identity, or have LGBTQ friends or family members. They also help students organize around issues that affect them in their schools and communities, and can be a vehicle for social change related to gender, race, and education. We will plan for celebrations of the Day of Silence, Pride Week, and more as directed by members.",
+    "advisor": "Quill",
+    "location": "B244",
+    "membership_requirements": "Students should be members of the LGBTQ+ community, Family members of the community, or Allies of the community.",
+    "genre": "Community",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "Spanish National Honor Society",
+    "description": "To promote appreciation and awareness of the Spanish language and Spanish speaking world, continuing language study and interaction.",
+    "advisor": "Brown",
+    "location": "B206",
+    "membership_requirements": "Application, acceptance, Sophomore status, GPA, Completion of at least Spanish 3+",
+    "genre": "Language",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "Swifties United",
+    "description": "A space dedicated to all things Taylor Swift, where fans come together to celebrate her music, discuss lyrics, share favorite songs, and explore the stories behind the songs. Whether you're a longtime Swiftie or just discovering her music, join us for fun discussions, exclusive updates, and a community that loves Taylor as much as you do!",
+    "advisor": "Allen",
+    "location": "A109",
+    "membership_requirements": "If you have a D or F, you are not permitted to come to the club.",
+    "genre": "Music",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "International Thespian Society",
+    "description": "Thespian Society is an organization for students who have been inducted into this Honor Society by a points accumulation of theatre work earned at Oakdale High School. Anyone may attend our meetings, however, only inducted members will be able to vote on activities and decisions.",
+    "advisor": "Copen",
+    "location": "D154- Drama Room",
+    "membership_requirements": "Must apply and be inducted for voting privileges",
+    "genre": "Drama",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "Volleyball Club",
+    "description": "The volleyball club will meet in the gym during block 4 on club days. This club is for those with prior skills and experience, but is for recreation. You do not have to be great or play on a team. We will teach and talk to each other about form, teaching new players, and helping others improve.",
+    "advisor": "McGraw",
+    "location": "Aux Gym",
+    "membership_requirements": "Students are required to complete a membership agreement.",
+    "genre": "Sports",
+    "meetingStatus": "Meeting",
+    "period": "Block 4"
+  },
+  {
+    "name": "Academic Team",
+    "description": "Students prepare for the academic team competitions - January through March.",
+    "advisor": "Morgenthaler, Smarick",
+    "location": ["B119", "B203"],
+    "membershipRequirements": "Competitions are on Friday evenings at Frederick High School starting in January - transportation is not provided.",
+    "meetingStatus": "Meeting",
+    "period": "After School"
+  },
+  {
+    "name": "Club Ice Hockey",
+    "description": "Oakdale’s Club Ice Hockey Team, 2024 Maryland State Champions",
+    "advisor": "Corridon",
+    "location": ["Skate Frederick"],
+    "membershipRequirements": "Ice Hockey club, all levels welcome! This is a club, not a school sponsored team. See Ms. Corridon for more information.",
+    "meetingStatus": "Meeting",
+    "period": "After School"
+  },
+  {
+    "name": "Dungeons and Dragons Club",
+    "description": "Our D&D Club beckons Oakdale students to a realm of adventure and camaraderie. Here, students don their creative mantles, crafting brave heroes and cunning rogues to embark on epic quests in the mystical worlds of Dungeons & Dragons! This guild of adventurers hones skills in storytelling, teamwork, and strategic thinking, forging bonds through shared challenges and triumphs. New players are welcome here as our experienced dungeon masters will dutifully and joyfully teach and mentor new adventurers, guiding them to be seasoned warriors. Step into a world of imagination, forge alliances, and embark on heroic journeys in our enchanted club!",
+    "advisor": "Corpora",
+    "location": ["A206"],
+    "membershipRequirements": "None",
+    "meetingStatus": "Meeting",
+    "period": "After School"
+  },
+  {
+    "name": "Envirothon",
+    "description": "The Envirothon is a fun and exciting way for high school students in grades 9-12 to learn about the natural world around us. Envirothon teams are made up of 5 students who work together to study Maryland’s natural resources over the course of the school year. All topics are very hands-on and include practical skills and trainings taught by experts in each field. Topics include: Aquatics, Forestry, Soils, Wildlife, and a 5th issue that changes yearly.",
+    "advisor": "Nave",
+    "location": ["A118"],
+    "membershipRequirements": "Skills test. We currently have two teams and are looking to fill a third. See topics above. Each team member is an expert on one topic.",
+    "additionalMeetingDays": "After School as necessary",
+    "meetingStatus": "Meeting",
+    "period": "After School"
+  },
+  {
+    "name": "Equestrian Club",
+    "description": "Discuss equestrian affiliations and opportunities/events. Western, English and non riders are welcome. This is NOT the equestrian team.",
+    "advisor": "Caliskan",
+    "location": ["B230"],
+    "membershipRequirements": "A true interest in horses/horseback riding",
+    "meetingStatus": "Meeting",
+    "period": "After School"
+  },
+  {
+    "name": "Honors Media Club (formerly Journalism Club)",
+    "description": "This club is for students interested in joining the Quill and Scroll International Honors Society. The Society's purpose is to encourage and recognize individual student achievement in journalism and scholastic publication. Since its founding, school charters have been granted to more than 11,300 high schools in all 50 states, the District of Columbia and 29 foreign countries.",
+    "advisor": "Corpora",
+    "location": ["A206"],
+    "membershipRequirements": "Students must have the equivalent of a B grade average, or be in the upper third of their class in general scholastic standing. They must have done superior work in some phase of journalism or school media work. They may be staffers of a magazine, newspaper, yearbook, news organization, online site or radio/television station at the school, or one conducted by an external organization. Students must pay $40 to join the society. This covers a lifetime membership, a membership pin, and a graduation cord. If you have any questions, please see Mr. Corpora.",
+    "meetingStatus": "TBD",
+    "period": "After School"
+  },
+  {
+    "name": "Linguistic Olympiad",
+    "description": "OHS Linguistic Olympiad Team",
+    "advisor": "Brown",
+    "location": ["B206"],
+    "membershipRequirements": "See Advisor",
+    "meetingStatus": "TBD",
+    "period": "After School"
+  },
+  {
+    "name": "Mock Trial",
+    "description": "Mock Trial is a club where students learn about the legal system in a competitive setting through preparing a case for trial and holding mock trials as competitions. We have roles available as lawyers and witnesses. The specifics will be shared when MyLaw releases the casebook for the season. We perfect a single case over the course of our season. Students develop critical thinking, public speaking, and teamwork skills, and gain a deeper understanding of the legal process. This is excellent preparation for any student, especially those interested in the legal system and/or politics.",
+    "advisor": "Corridon",
+    "location": ["A212"],
+    "membershipRequirements": "Attend the information session in October. Selection process through tryouts in late October/early November. Mandatory after school practices from November through March, competitions begin in January.",
+    "meetingStatus": "TBD",
+    "period": "After School"
+  },
+  {
+    "name": "Model UN",
+    "description": "Model United Nations—also known as Model UN or MUN—is a popular extra-curricular activity in which students roleplay delegates to the United Nations, simulate UN committees, and learn about diplomacy, international relations, current world issues, and the UN itself.",
+    "advisor": "Heine",
+    "location": ["A207"],
+    "membershipRequirements": "Complete this application form https://docs.google.com/forms/d/e/1FAIpQLSdyaR2WwYZen33DfVD43QLaJbKzCideQzcbPKEpc3eSg4UReA/viewform?usp=sharing",
+    "meetingStatus": "TBD",
+    "period": "After School"
+  },
+  {
+    "name": "Naach South Asian Dance",
+    "description": "Practice, perform, and teach traditional South Asian dances",
+    "advisor": "Brown",
+    "location": ["B206", "Cafeteria"],
+    "membershipRequirements": "Audition",
+    "meetingStatus": "Meeting",
+    "period": "After School"
+  },
+  {
+    "name": "National History Day",
+    "description": "National History Day is a year-long academic program focused on historical research, interpretation and creative expression for 6th- to 12th-grade students. By participating in NHD, students become writers, filmmakers, web designers, playwrights and artists as they create unique contemporary expressions of history. The experience culminates in a series of contests at the local and affiliate levels and an annual national competition in the nation's capital in June.",
+    "advisor": "Beard",
+    "location": ["A200"],
+    "membershipRequirements": "Apply for NHD when the time comes and follow deadlines for the project.",
+    "meetingStatus": "Meeting",
+    "period": "After School"
+  },
+  {
+    "name": "National Honor Society",
+    "description": "This club is by invitation only. The National Honor Society celebrates and encourages student academic achievement, leadership, and community involvement.",
+    "advisor": "Showalter & Carman",
+    "location": ["A223"],
+    "membershipRequirements": "GPA, Community Service, Completed Application including teacher recommendation",
+    "meetingStatus": "TBD",
+    "period": "After School"
+  },
+  {
+    "name": "National Organization of Women (NOW)",
+    "description": "Since our founding in 1966, NOW’s purpose is to take action through intersectional grassroots activism to promote feminist ideals, lead societal change, eliminate discrimination, and achieve and protect the equal rights of all women and girls in all aspects of social, political, and economic life.",
+    "advisor": "Maggie George",
+    "location": ["B231"],
+    "membershipRequirements": "None",
+    "meetingStatus": "Meeting",
+    "period": "After School"
+  },
+  {
+    "name": "Oakdale South Asian Society (OSAS)",
+    "description": "The Oakdale South Asian Student Association is a club, where people of all cultures are invited to come together and learn and celebrate South Asian Culture via music, dance, food, festivals etc.",
+    "advisor": "Ms. Sharma",
+    "location": ["B114"],
+    "membershipRequirements": "Must be able to stay after school. Must show respect to everyone around you.",
+    "meetingStatus": "TBD",
+    "period": "After School"
+  },
+  {
+    "name": "Positivity Beats",
+    "description": "Make cards for hospitalized children and teens",
+    "advisor": "Brown",
+    "location": ["B206"],
+    "membershipRequirements": "None",
+    "meetingStatus": "Meeting",
+    "period": "After School"
+  },
+  {
+    "name": "Red Cross Club",
+    "description": "The Red Cross Club directly supports the mission of the American Red Cross through SERVICE opportunities. The American Red Cross prevents and alleviates human suffering in the face of emergencies by mobilizing the power of volunteers and the generosity of donors.",
+    "advisor": "Cole",
+    "meetingDays": ["Mondays"],
+    "location": ["B200", "Auditorium"],
+    "membershipRequirements": "Students must register as a volunteer with the American Red Cross in order to participate in this club.",
+    "additionalMeetingDays": "Prospective new members must meet with Ms. Cole during block 4 club on 9/11. All other meetings will be held after school.",
+    "meetingStatus": "Meeting",
+    "period": "After School"
+  },
+  {
+    "name": "SAPS (Support for AP Students)",
+    "description": "A club with the focus of supporting students actively taking AP courses who need guidance, whether with content, exams, and time or stress management.",
+    "advisor": "Heine",
+    "location": ["A207"],
+    "membershipRequirements": "Must be currently enrolled in an AP course (fall or spring)",
+    "meetingStatus": "Meeting",
+    "period": "After School"
+  },
+  {
+    "name": "Stardew Club",
+    "description": "Building a community of like-minded individuals through discussion of the video game Stardew Valley.",
+    "advisor": "Burton",
+    "location": ["TBD"],
+    "membershipRequirements": "Know what Stardew Valley is! Have Stardew Valley on a device you can bring to school.",
+    "meetingStatus": "TBD",
+    "period": "After School"
+  },
+  {
+    "name": "Travel Club",
+    "description": "Discuss and Plan co-curricular trips.",
+    "advisor": "Caliskan",
+    "location": ["B230"],
+    "membershipRequirements": "None",
+    "meetingStatus": "Meeting",
+    "period": "After School"
+  }
+]

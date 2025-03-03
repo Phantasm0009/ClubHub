@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Club Hub</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <div class="header-container">
+        <h1>Welcome to Oakdale High School Club Hub</h1>
+        <button id="dark-mode-toggle">Dark Mode</button>
+    </div>
+
+    <!-- Filter Section -->
+    <div class="filter">
+        <button id="filterButton" class="filter-btn">Filter</button>
+    </div>
+
+    <!-- Filter Popup -->
+    <div id="filterPopup" class="filter-popup">
+        <h2>Filter Options</h2>
+        <label for="genreFilter">Genre:</label>
+        <select id="genreFilter">
+            <option value="All">All</option>
+            <option value="Science">Science</option>
+            <option value="Literature">Literature</option>
+            <option value="Education">Education</option>
+        </select>
+
+        <label for="periodFilter">Period:</label>
+        <select id="periodFilter">
+            <option value="All">All</option>
+            <option value="Block 1">Block 1</option>
+            <option value="Block 2">Block 2</option>
+            <option value="Block 3">Block 3</option>
+            <option value="Block 4">Block 4</option>
+            <option value="After School">After School</option>
+        </select>
+
+        <label for="statusFilter">Meeting Status:</label>
+        <select id="statusFilter">
+            <option value="All">All</option>
+            <option value="Meeting">Meeting</option>
+            <option value="Not Meeting">Not Meeting</option>
+        </select>
+
+        <label for="membershipFilter">Membership:</label>
+        <select id="membershipFilter">
+            <option value="All">All</option>
+            <option value="None">None</option>
+            <option value="Consistent Attendance">Consistent Attendance</option>
+        </select>
+
+        <label for="advisorFilter">Advisor:</label>
+        <select id="advisorFilter">
+            <option value="All">All</option>
+            <!-- Advisors will be added dynamically -->
+        </select>
+
+        <button onclick="applyFilters()">Apply Filters</button>
+        <button id="closePopupButton">Close</button>
+    </div>
+
+    <!-- Search Input -->
+    <input type="text" id="search-club" placeholder="Search Clubs">
+
+    <!-- Clubs Container (where the filtered clubs will be displayed) -->
+    <div id="club-list"></div>
+
+    <script src="scripts/main.js"></script>
+</body>
+</html>

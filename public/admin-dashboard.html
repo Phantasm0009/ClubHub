@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <h1>Admin Dashboard</h1>
+    <div id="passwordModal" class="modal">
+        <div class="modal-content">
+            <h3>Enter Admin Password</h3>
+            <input type="password" id="admin-password" placeholder="Enter password" />
+            <button id="submit-password">Submit</button>
+            <span id="error-message" style="color: red; display: none;">Incorrect password. Please try again.</span>
+        </div>
+    </div>
+    <div id="message-container" style="display: none;"></div>
+    <form id="add-club-form">
+        <label for="club-name">Club Name:</label>
+        <input type="text" id="club-name" name="club-name" required><br>
+        
+        <label for="description">Description:</label>
+        <textarea id="description" name="description" required></textarea><br>
+        
+        <label for="advisor">Advisor:</label>
+        <input type="text" id="advisor" name="advisor" required><br>
+        
+        <label for="location">Location:</label>
+        <input type="text" id="location" name="location" required><br>
+        
+        <label for="membership-requirements">Membership Requirements:</label>
+        <input type="text" id="membership-requirements" name="membership-requirements"><br>
+
+        <label for="meeting-status">Meeting Status:</label>
+        <select id="meeting-status" name="meeting-status">
+            <option value="Meeting">Meeting</option>
+            <option value="Not Meeting">Not Meeting</option>
+            <option value="TBD">TBD</option>
+        </select><br>
+
+        <button type="submit">Add Club</button>
+    </form>
+<!-- Change Meeting Status Section -->
+<h2>Change Club Meeting Status</h2>
+<form id="change-status-form">
+    <label for="select-club">Select Club:</label>
+    <select id="select-club">
+        <!-- Clubs will be populated here -->
+    </select>
+
+    <label for="new-meeting-status">New Meeting Status:</label>
+    <select id="new-meeting-status" name="new-meeting-status">
+        <option value="Meeting">Meeting</option>
+        <option value="Not Meeting">Not Meeting</option>
+        <option value="TBD">TBD</option>
+
+    </select><br>
+    <!-- Save button -->
+    <button type="button" id="save-changes">Save Changes</button>
+</form>
+
+
+    <div id="club-list">
+        <!-- Club items will be loaded here -->
+    </div>
+    
+    <script src="scripts/admin.js"></script>
+</body>
+</html>
